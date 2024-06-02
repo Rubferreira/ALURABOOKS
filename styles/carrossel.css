@@ -133,11 +133,11 @@
         width: 58%;
         margin-left: 3em;
     }
-    
-    .swiper-slide:hover {
-        scale: 1.1;
-        transition: .5s;
-    }
+}
+
+.swiper-slide:hover {
+    scale: 1.1;
+    transition: .5s;
 }
 
 
